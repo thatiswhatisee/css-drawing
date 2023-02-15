@@ -1,0 +1,192 @@
+body {
+    
+    background-color: #ABB5C4;
+}
+
+#ground {
+    width: 325px;
+    position: absolute;
+    height: 100px;
+    background-color: #F17141;
+    top: 400px;
+    bottom: 300px;
+    left: 220px;
+    transform: skew(-70deg, -50deg) rotate(45deg);
+}
+
+
+#glasstwo{
+    top: 240px;
+    bottom: 100px;
+    left: 300px;
+      width: 150px;
+      height: 250px;
+         position: absolute;
+ 
+background: rgba(255, 255, 255, 0.29);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(2.9px);
+-webkit-backdrop-filter: blur(2.9px);
+border: 1px solid rgba(255, 255, 255, 0.08);
+clip-path: polygon(43% 0%, 36% 21%, 30% 41%, 28% 67%, 28% 83%, 28% 94%, 28% 100%, 64% 100%, 64% 88%, 63% 77%, 62% 64%, 57% 42%, 52% 21%, 52% 1%);
+    }
+#seventh {
+    
+    background-color: #F8F7D1;
+    position: absolute;
+    top: 450px;
+    bottom: 200px;
+    left: 300px;
+   width: 150px;
+    height: 20px;
+    
+    
+    
+}   
+
+
+
+#sixth {
+    width: 150px;
+    height: 20px;
+    background-color: #E7ACD2;
+    position: absolute;
+    top: 430px;
+    bottom: 200px;
+    left: 300px;
+    
+    
+    
+}
+#third {
+    width: 100%;;
+    height: 300px;;
+    background-color: #383838;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    
+    
+    
+}
+
+#fourth {
+    width: 300px;
+    height: 50px;
+    background-color: darkgrey;
+    position: absolute;
+    top: 470px;
+    bottom: 200px;
+    left: 200px;
+    
+    
+    
+}
+  #fifth {
+    width: 50px;
+    height: 50px;
+    background-color: dimgrey;
+    position: absolute;
+    top: 420px;
+    bottom: 200px;
+    left: 175px;  
+    clip-path: polygon(100% 0, 50% 100%, 100% 100%)
+        ;
+      
+      
+}
+
+
+
+
+
+    #oval {
+        top: 380px;
+    bottom: 100px;
+    left: 440px;
+      width: 90px;
+      height: 120px;
+         position: absolute;
+      background-color:#BD2B2B ;
+      border-radius: 100px / 50px;
+    }
+
+  
+
+
+#circle1 {
+  width: 10px;
+  height: 10px;
+  background-color: dimgrey;
+  border-radius: 100%;
+     top: 480px;
+    bottom: 200px;
+    left: 230px;
+  
+    position: absolute;
+}
+#circle2 {
+  width: 10px;
+  height: 10px;
+  background-color: dimgrey;
+  border-radius: 100%;
+     top: 480px;
+    bottom: 200px;
+    left: 330px;
+  
+    position: absolute;
+}
+#circle3 {
+  width: 10px;
+  height: 10px;
+  background-color: dimgrey;
+  border-radius: 100%;
+     top: 480px;
+    bottom: 200px;
+    left: 430px;
+  
+    position: absolute;
+}
+#circle4 {
+  width: 10px;
+  height: 10px;
+  background-color: dimgrey;
+  border-radius: 100%;
+     top: 500px;
+    bottom: 200px;
+    left: 475px;
+    position: absolute;
+}
+#circle5 {
+  width: 10px;
+  height: 10px;
+  background-color: dimgrey;
+  border-radius: 100%;
+     top: 500px;
+    bottom: 200px;
+    left: 375px;
+    position: absolute;
+}
+#circle6 {
+  width: 10px;
+  height: 10px;
+  background-color: dimgrey;
+  border-radius: 100%;
+     top: 500px;
+    bottom: 200px;
+    left: 275px;
+position: absolute;
+}
+
+#flower {
+    
+    background-color: #49543F;
+    top: 250px;
+    bottom: 200px;
+    left: 370px;
+    width: 5px;
+    height: 100px;
+ position: absolute;
+    
+}
